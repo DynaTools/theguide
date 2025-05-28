@@ -1,0 +1,58 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient background -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F7931E;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="innerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:0.7" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Main circle with gradient -->
+  <circle cx="20" cy="20" r="18" fill="url(#bgGradient)" stroke="#E55A2B" stroke-width="1"/>
+  
+  <!-- Inner geometric pattern inspired by AI/neural networks -->
+  <g transform="translate(20,20)">
+    <!-- Central hub -->
+    <circle cx="0" cy="0" r="2" fill="url(#innerGradient)"/>
+    
+    <!-- Radiating connections -->
+    <g stroke="white" stroke-width="1.2" opacity="0.8">
+      <!-- Primary connections -->
+      <line x1="0" y1="0" x2="-8" y2="-6" />
+      <line x1="0" y1="0" x2="8" y2="-6" />
+      <line x1="0" y1="0" x2="-8" y2="6" />
+      <line x1="0" y1="0" x2="8" y2="6" />
+      <line x1="0" y1="0" x2="0" y2="-10" />
+      <line x1="0" y1="0" x2="0" y2="10" />
+    </g>
+    
+    <!-- Outer nodes -->
+    <g fill="white">
+      <circle cx="-8" cy="-6" r="1.2"/>
+      <circle cx="8" cy="-6" r="1.2"/>
+      <circle cx="-8" cy="6" r="1.2"/>
+      <circle cx="8" cy="6" r="1.2"/>
+      <circle cx="0" cy="-10" r="1.2"/>
+      <circle cx="0" cy="10" r="1.2"/>
+    </g>
+    
+    <!-- Secondary connections -->
+    <g stroke="white" stroke-width="0.8" opacity="0.5">
+      <line x1="-8" y1="-6" x2="8" y2="-6" />
+      <line x1="-8" y1="6" x2="8" y2="6" />
+      <line x1="-8" y1="-6" x2="-8" y2="6" />
+      <line x1="8" y1="-6" x2="8" y2="6" />
+    </g>
+  </g>
+  
+  <!-- Stylized 'G' with modern typography -->
+  <g transform="translate(20,20)">
+    <path d="M -3 -8 L 3 -8 L 3 -6 L -1 -6 L -1 2 L 3 2 L 3 0 L 1 0 L 1 4 L -3 4 Z" 
+          fill="white" 
+          opacity="0.9"/>
+  </g>
+</svg>

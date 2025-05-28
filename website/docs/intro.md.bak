@@ -1,0 +1,63 @@
+# The Guide - IA para Revit
+
+Bem-vindo ao **The Guide**, seu guia completo para aprender e aplicar **Inteligência Artificial** no dia a dia como desenhista ou projetista que usa **Revit**.
+
+## 🎯 Para quem é este guia?
+
+Este guia foi criado especialmente para:
+- **Desenhistas** que trabalham com Revit
+- **Projetistas** de arquitetura e engenharia
+- **Profissionais** que querem otimizar seus workflows com IA
+- **Qualquer pessoa** interessada em aplicar IA de forma prática
+
+## 🚀 O que você vai aprender?
+
+### 1. Fundamentos da Inteligência Artificial
+- Introdução à IA e conceitos básicos
+- Grandes Modelos de Linguagem (LLMs)
+- Aplicações práticas da IA
+
+### 2. Engenharia de Prompt
+- O que são prompts e como funcionam
+- Técnicas básicas e avançadas
+- Prompts em inglês para melhores resultados
+- Extensões e problemas comuns
+
+### 3. Primeiros Passos com Programação e IA
+- Google AI Studio - playground gratuito
+- Primeiro script com Google Colab
+- Exemplos práticos: PDF para DWG, YouTube, Fluxogramas
+
+### 4. IA Aplicada a Projetos
+- Extensões úteis e formatos de arquivo
+- Análise e tradução de textos
+- Integração com workflows de Revit
+
+### 5. Conclusão e Próximos Passos
+- Como continuar aprendendo
+- Comunidades e recursos
+- Tendências futuras
+
+## 🌍 Idiomas Disponíveis
+
+Este guia está disponível em:
+- 🇧🇷 **Português** (padrão)
+- 🇺🇸 **English**
+- 🇮🇹 **Italiano**
+
+## 📖 Sobre o Autor
+
+**Paulo Giavoni** é autor do livro [SCAN to BIM: Guidelines for Digitalization of Hydroelectric Plants](https://www.amazon.it/SCAN-BIM-Guidelines-Digitalization-Hydroelectric/dp/B0DS9TC4PM) e profissional especializado em digitalização e automação de processos na engenharia.
+
+## 🎯 Filosofia do Guia
+
+- **Minimalista**: Direto ao ponto, sem enrolação
+- **Prático**: Foco em aplicações reais
+- **Atualizado**: Conteúdo sempre em evolução
+- **Acessível**: Para todos os níveis de conhecimento
+
+---
+
+**Pronto para começar?** 👇
+
+[Começar com Fundamentos da IA →](./fundamentos-ia/introducao)
